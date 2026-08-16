@@ -140,18 +140,16 @@ Text → Speech
 ## System Architecture
 
 <p align="center">
-  <img src="./assets/SystemArchitecture.png" alt="NeuRaX System Architecture" height="350">
-</p>## Technology Stack
+  <img src="./assets/SystemArchitecture.png" alt="NeuRaX System Architecture" height="650">
+</p>
+
+## Technology Stack
 
 <p align="center">
   <img src="./assets/TechnologyStack.png" alt="NeuRaX Technology Stack" width="900">
 </p>
 
-## System Architecture
 
-<p align="center">
-  <img src="./assets/SystemArchitecture.png" alt="NeuRaX System Architecture" width="900">
-</p>
 
 ## Future Vision
 
