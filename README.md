@@ -165,15 +165,15 @@ NeuRaX is being developed with the vision of creating a reliable, extensible, an
 
 Future development will focus on:
 
-🧠 Intelligent task planning
-🔗 Multi-step workflow execution
-💾 Persistent memory and contextual understanding
-🛠️ Dynamic tool and plugin integration
-💻 AI-powered developer assistance
-🔐 Permission-based and secure automation
-🛡️ Prompt-injection and unsafe-action protection
-🔄 Self-verification and failure recovery
-📊 Task execution monitoring and observability
+- 🧠 Intelligent task planning
+- 🔗 Multi-step workflow execution
+- 💾 Persistent memory and contextual understanding
+- 🛠️ Dynamic tool and plugin integration
+- 💻 AI-powered developer assistance
+- 🔐 Permission-based and secure automation
+- 🛡️ Prompt-injection and unsafe-action protection
+- 🔄 Self-verification and failure recovery
+- 📊 Task execution monitoring and observability
 
 From an AI that answers questions to an AI that understands goals, takes action, and gets things done.
 
