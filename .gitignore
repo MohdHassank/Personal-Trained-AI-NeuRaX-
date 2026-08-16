@@ -1,0 +1,37 @@
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+
+# Python environments and bytecode
+.venv/
+venv/
+env/
+ENV/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Tool and test caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Runtime output and temporary data
+*.log
+Data/speech.mp3
+Data/Voice.html
+Data/*.jpg
+Data/ChatLog.json
+Backend/tempCodeRunnerFile.py
+Frontend/Files/*.data
+Frontend/FrontendFiles/*.data
+FrontendFiles/*.data
+
+# IDE and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
