@@ -135,3 +135,47 @@ Text Response
 Text → Speech
     ↓
 🔊 NeuRaX speaks
+```
+
+## System Architecture
+
+<p align="center">
+  <img src="./assets/SystemArchitecture.png" alt="NeuRaX System Architecture" height="350">
+</p>## Technology Stack
+
+<p align="center">
+  <img src="./assets/TechnologyStack.png" alt="NeuRaX Technology Stack" width="900">
+</p>
+
+## System Architecture
+
+<p align="center">
+  <img src="./assets/SystemArchitecture.png" alt="NeuRaX System Architecture" width="900">
+</p>
+
+## Future Vision
+
+The long-term vision of NeuRaX is to evolve from a traditional voice assistant into a personal autonomous AI agent that can understand not only individual commands, but complete user goals.
+
+NeuRaX aims to understand the user's intent, break complex goals into actionable steps, select and use the appropriate tools, interact with the operating system, maintain meaningful context, execute tasks, and verify the results before reporting back to the user.
+
+The ultimate goal is to create an AI that doesn't simply tell the user what to do, but can intelligently plan, act, verify, and assist while keeping the user in control of important decisions and sensitive operations.
+
+## Project Goal
+
+NeuRaX is being developed with the vision of creating a reliable, extensible, and user-controlled AI agent for everyday computer interaction.
+
+Future development will focus on:
+
+🧠 Intelligent task planning
+🔗 Multi-step workflow execution
+💾 Persistent memory and contextual understanding
+🛠️ Dynamic tool and plugin integration
+💻 AI-powered developer assistance
+🔐 Permission-based and secure automation
+🛡️ Prompt-injection and unsafe-action protection
+🔄 Self-verification and failure recovery
+📊 Task execution monitoring and observability
+
+From an AI that answers questions to an AI that understands goals, takes action, and gets things done.
+
